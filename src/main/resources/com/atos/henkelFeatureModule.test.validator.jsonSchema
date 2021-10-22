@@ -1,0 +1,13 @@
+{
+	"type": "object",
+	"properties":
+	{
+		"option":
+		{
+			"type": "string",
+			"required": true
+		}
+	},
+	"extends": "com/atos/henkelFeatureModule.configuration.validator.jsonSchema",
+	"additionalProperties": false
+}
